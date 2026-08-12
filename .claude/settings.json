@@ -1,0 +1,13 @@
+{
+  "extraKnownMarketplaces": {
+    "coachbot-testing": {
+      "source": {
+        "source": "github",
+        "repo": "jashans26-max/coachbot-plugin-testing"
+      }
+    }
+  },
+  "enabledPlugins": [
+    "coachbot-plugin@coachbot-testing"
+  ]
+}
