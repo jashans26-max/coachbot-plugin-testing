@@ -1,0 +1,5 @@
+{
+  "name": "coachbot-plugin",
+  "description": "Coachbot: an installable Claude Code plugin providing a senior-mentor framework with subagents, skills, and enforced restraint/documentation.",
+  "version": "0.0.1"
+}
