@@ -4,7 +4,8 @@
       "source": {
         "source": "github",
         "repo": "jashans26-max/coachbot-plugin-testing"
-      }
+      },
+      "autoUpdate": true
     }
   },
   "enabledPlugins": [
