@@ -1,0 +1,17 @@
+{
+  "name": "coachbot-testing",
+  "owner": {
+    "name": "Coachbot Team"
+  },
+  "description": "Coachbot plugin skeleton for testing plugin infrastructure",
+  "version": "0.0.1",
+  "plugins": [
+    {
+      "name": "coachbot-plugin",
+      "source": ".",
+      "displayName": "Coachbot Plugin",
+      "description": "Coachbot: an installable Claude Code plugin providing a senior-mentor framework with subagents, skills, and enforced restraint/documentation.",
+      "defaultEnabled": true
+    }
+  ]
+}
