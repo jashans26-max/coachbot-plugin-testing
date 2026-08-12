@@ -1,5 +1,5 @@
 ---
-name: placeholder-agent
+name: jashans_agent
 description: Placeholder subagent used only to confirm the plugin's subagent loading works correctly. Not real Coachbot logic yet.
 tools: Read
 model: haiku
