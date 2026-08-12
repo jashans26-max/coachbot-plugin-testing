@@ -4,7 +4,6 @@
     "name": "Coachbot Team"
   },
   "description": "Coachbot plugin skeleton for testing plugin infrastructure",
-  "version": "0.0.2",
   "plugins": [
     {
       "name": "coachbot-plugin",
